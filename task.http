@@ -1,0 +1,7 @@
+
+@api = http://localhost:3000/platos
+
+GET {{api}}
+
+###
+DELETE  {{api}}/1
